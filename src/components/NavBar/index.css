@@ -1,0 +1,19 @@
+/* Write your code here. */
+.navContainer {
+  display: flex;
+  padding: 8px;
+  justify-content: center;
+  background-color: #ffffff33;
+}
+.imgContainer {
+  display: flex;
+
+  align-items: center;
+}
+.scoreContainer {
+  display: flex;
+
+  justify-content: space-between;
+  flex-basis: 80%;
+  max-width: 1000px;
+}

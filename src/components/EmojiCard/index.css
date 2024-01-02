@@ -1,0 +1,23 @@
+/* Write your code here. */
+.listItems {
+  display: flex;
+
+  flex-wrap: wrap;
+  list-style: none;
+}
+.emojiContainer {
+  background-color: #ffffff33;
+  height: 150px;
+  width: 150px;
+  border-top-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  border-bottom-left-radius: 10%;
+  border-top-right-radius: 10%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border: #ffffff33;
+  outline: none;
+}
+.imgProp {
+  width: 100px;
+}
